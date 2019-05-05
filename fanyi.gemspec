@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
   gem.name          = "fanyi"
   gem.version       = FANYI::VERSION
-  gem.date          = %q{2019-04-25}
+  gem.date          = %q{2019-05-05}
   gem.rdoc_options  = ["--charset=UTF-8"]
   gem.bindir        = "bin"
   gem.required_ruby_version = '>= 1.9.0'

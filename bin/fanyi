@@ -16,7 +16,7 @@ if argv.length == 0
   exit
 end
 
-a = argv[0]
+a = argv.join(" ")
 
 unless ENV["GOOGLE_API_KEY_FANYI"]
   puts "please setting GOOGLE_API_KEY_FANYI"

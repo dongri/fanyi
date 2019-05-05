@@ -5,8 +5,8 @@ $ gem install fanyi
 $ vim ~/.bashrc
 GOOGLE_API_KEY_FANYI=****
 
-$ fanyi hello
-{"translatedText"=>"こんにちは"}
+$ fanyi hello world
+{"translatedText"=>"こんにちは世界"}
 ```
 
 # RubyGems

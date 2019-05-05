@@ -13,5 +13,5 @@ $ fanyi hello world
 ```
 $ gem build fanyi.gemspec
 
-$ gem push fanyi-0.0.1.gem
+$ gem push fanyi-0.0.3.gem
 ```
